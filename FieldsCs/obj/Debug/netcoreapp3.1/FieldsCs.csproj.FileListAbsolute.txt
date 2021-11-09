@@ -1,0 +1,14 @@
+C:\Users\masen\source\repos\FieldsCs\FieldsCs\bin\Debug\netcoreapp3.1\FieldsCs.exe
+C:\Users\masen\source\repos\FieldsCs\FieldsCs\bin\Debug\netcoreapp3.1\FieldsCs.deps.json
+C:\Users\masen\source\repos\FieldsCs\FieldsCs\bin\Debug\netcoreapp3.1\FieldsCs.runtimeconfig.json
+C:\Users\masen\source\repos\FieldsCs\FieldsCs\bin\Debug\netcoreapp3.1\FieldsCs.runtimeconfig.dev.json
+C:\Users\masen\source\repos\FieldsCs\FieldsCs\bin\Debug\netcoreapp3.1\FieldsCs.dll
+C:\Users\masen\source\repos\FieldsCs\FieldsCs\bin\Debug\netcoreapp3.1\FieldsCs.pdb
+C:\Users\masen\source\repos\FieldsCs\FieldsCs\obj\Debug\netcoreapp3.1\FieldsCs.csproj.AssemblyReference.cache
+C:\Users\masen\source\repos\FieldsCs\FieldsCs\obj\Debug\netcoreapp3.1\FieldsCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masen\source\repos\FieldsCs\FieldsCs\obj\Debug\netcoreapp3.1\FieldsCs.AssemblyInfoInputs.cache
+C:\Users\masen\source\repos\FieldsCs\FieldsCs\obj\Debug\netcoreapp3.1\FieldsCs.AssemblyInfo.cs
+C:\Users\masen\source\repos\FieldsCs\FieldsCs\obj\Debug\netcoreapp3.1\FieldsCs.csproj.CoreCompileInputs.cache
+C:\Users\masen\source\repos\FieldsCs\FieldsCs\obj\Debug\netcoreapp3.1\FieldsCs.dll
+C:\Users\masen\source\repos\FieldsCs\FieldsCs\obj\Debug\netcoreapp3.1\FieldsCs.pdb
+C:\Users\masen\source\repos\FieldsCs\FieldsCs\obj\Debug\netcoreapp3.1\FieldsCs.genruntimeconfig.cache

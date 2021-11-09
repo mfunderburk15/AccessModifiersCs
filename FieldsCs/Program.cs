@@ -6,7 +6,11 @@ namespace FieldsCs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Customer customer = new Customer(1);
+            customer.Orders.Add(new Order());
+            customer.Orders.Add(new Order());
+
+            Console.WriteLine(customer.Orders.Count);
         }
     }
 }
